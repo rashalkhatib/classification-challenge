@@ -15,4 +15,3 @@ This project implements a spam detection system for an Internet Service Provider
 - The Random Forest Classifier outperformed the Logistic Regression Model (Random Forest Classifier accuracy is 96.70& Vs. the Logistic Regression model accuracy is 92.88%).
 
 ## Summary:
-The project showcases 
